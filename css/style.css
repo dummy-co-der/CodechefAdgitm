@@ -283,6 +283,11 @@ iframe {
   background-color: #333333;
   color: #fff;
   transition: background-color 0.5s ease;
+  height: 400px;
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
 }
 
 .colorfullPanel h3{
@@ -311,6 +316,7 @@ iframe {
 .colorfullPanel p{
   margin-bottom: 40px;
   position: relative;
+  color:white;
 
 }
 
@@ -721,6 +727,12 @@ div#news-slider .owl-next {
   text-transform: uppercase;
   text-align: center;
 
+}
+.avatar {
+  vertical-align: middle;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
 }
 
 
