@@ -280,14 +280,14 @@ iframe {
 }
 
 .colorfullPanel{
-  background-color: #333333;
-  color: #fff;
-  transition: background-color 0.5s ease;
   height: 400px;
   margin-top: 5px;
   margin-left: 5px;
   margin-right: 5px;
   margin-bottom: 5px;
+  background-color: #333333;
+  color: #fff;
+  transition: background-color 0.5s ease;
 }
 
 .colorfullPanel h3{
