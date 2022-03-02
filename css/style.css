@@ -1,15 +1,3 @@
-/*
-Theme Name: Cemre Bakery Theme
-Theme URI: https://bakery.cemreworks.com
-Author: Cemre Tellioğlu Tunçay
-Author URI: https://cemreworks.com
-*/
-/*
-* ==========================================
-* GENERAL AND HEADER START
-* ==========================================
-*/
-
 
 .fixedArea {
     position: fixed;
@@ -846,7 +834,6 @@ div#news-slider .owl-next {
     padding-bottom: 45px;
     padding-top: 45px;
     background-size: cover;
-    background-position: center;
     background-repeat: no-repeat;
     margin-top: -100px;
 }
